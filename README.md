@@ -31,7 +31,7 @@ $ whoami --verbose
 - 🎓 **Education:** Computer Engineering at **Ramrao Adik Institute of Technology**, Mumbai
 - 🌐 **Focus:** Websites with real motion, full-stack apps, automation and small games
 - 🏆 **Hackathons:** Smart India Hackathon 2026 with team **Logic_Lords** (KrishiSetu)
-- 🔐 **Background:** Started out in cybersecurity and digital forensics
+- 🔐 **Background:** Cybersecurity and digital forensics, now building ML security tools like PDFShield
 - 🤖 **How I build:** AI as a co-pilot, then test everything before it ships
 - 💼 **Open to:** Projects, collabs and internships
 
@@ -48,7 +48,7 @@ $ whoami --verbose
 <p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend" /></p>
 
 ### Backend & Data
-<p><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase&theme=dark" alt="Backend" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,sklearn,docker&theme=dark" alt="Backend" /></p>
 
 ### Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode&theme=dark" alt="Tools" /></p>
@@ -61,6 +61,7 @@ $ whoami --verbose
 
 | Project | What it is | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **🛡️ PDFShield** | ML malware scanner for PDFs: reads structure and JavaScript behaviour, explains every verdict, never runs the file. Tested on 22k real PDFs | `Python` `scikit-learn` `Docker` | [Code ↗](https://github.com/purvalsingh/pdfshield) |
 | **🌾 KrishiSetu** | Farmer-first agricultural marketplace, built for Smart India Hackathon 2026 | `Next.js` `Prisma` `TypeScript` | [Live ↗](https://krishisetu-weld.vercel.app) · [Code ↗](https://github.com/purvalsingh/krishisetu) |
 | **🏋️ FORGE** | Offline-first fitness PWA: training, nutrition, steps and goals | `TypeScript` `PWA` `Supabase` | [Live ↗](https://forgefit-one.vercel.app) · [Code ↗](https://github.com/purvalsingh/forge-fitness-app) |
 | **🏭 Trimbak Plastics** | Brand website for a plastics manufacturer with a full scroll and hover motion layer | `HTML` `CSS` `JavaScript` | [Live ↗](https://trimbakplastics.vercel.app) |
