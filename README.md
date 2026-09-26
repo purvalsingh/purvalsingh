@@ -70,30 +70,16 @@ $ whoami --verbose
 
 ---
 
-## 📡 Telemetry
+## 📡 Mission control
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=purvalsingh&theme=dark&background=04050D&ring=9B7BFF&fire=5EF2FF&currStreakLabel=5EF2FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=B9C3FF&dates=8B949E&stroke=1F6BFF&hide_border=true" alt="GitHub Streak" width="98%"/>
+  <img src="https://raw.githubusercontent.com/purvalsingh/purvalsingh/output/mission-control.svg" alt="Mission control: contribution galaxy, streaks and language mix" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purvalsingh&theme=tokyonight" alt="GitHub Profile Details" width="98%"/>
-</p>
-
----
-
-## 🐍 Orbit log
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/purvalsingh/purvalsingh/output/space-snake.svg" alt="Contribution snake" width="98%"/>
-</p>
-
----
 
 <p align="center">
   <i>"Hand-built, no templates. The portfolio has more to look at, and a game."</i>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6BFF,50:9B7BFF,100:5EF2FF&height=90&section=footer" alt="Footer"/>
+  <img width="100%" src="footer.svg" alt="End of transmission"/>
 </p>
