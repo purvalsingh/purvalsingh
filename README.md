@@ -65,7 +65,6 @@ $ whoami --verbose
 | **🏋️ FORGE** | Offline-first fitness PWA: training, nutrition, steps and goals | `TypeScript` `PWA` `Supabase` | [Live ↗](https://forgefit-one.vercel.app) · [Code ↗](https://github.com/purvalsingh/forge-fitness-app) |
 | **🏭 Trimbak Plastics** | Brand website for a plastics manufacturer with a full scroll and hover motion layer | `HTML` `CSS` `JavaScript` | [Live ↗](https://trimbakplastics.vercel.app) |
 | **🎙️ Socially Blends** | Motion-heavy website for a dubbing studio | `HTML` `CSS` `JavaScript` | [Live ↗](https://socially-blends.vercel.app) |
-| **📚 AdaptPrep** | AI-powered exam prep platform with analytics and personalised learning | `JavaScript` `AI` | [Code ↗](https://github.com/purvalsingh/adaptprep-ai-learning-platform) |
 | **⚔️ Wayfarer's Guild** | Roblox life-sim RPG | `Lua` `Roblox` | [Code ↗](https://github.com/purvalsingh/wayfarers-guild) |
 | **👾 Space Invaders** | The arcade classic, rebuilt from scratch in Canvas and Web Audio | `Canvas` `Web Audio` | [Play ↗](https://purvalsingh.github.io/space-invaders/) |
 
